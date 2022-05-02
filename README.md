@@ -1,5 +1,5 @@
 # dice
-A simple BASH-based simulator of dice rolling
+## A simple BASH-based simulator of dice rolling
 
 Usage: dice XdY
 
