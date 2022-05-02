@@ -10,7 +10,7 @@ Run
 ```
 ./dice.sh <options>
 ```
-For example: 
+Script allows to roll an arbitrary number of arbitrarily sided dice in terminal, for example: 
 ```
 ./dice.sh 4d6 18d11
 ```
